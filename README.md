@@ -19,7 +19,7 @@ Esta es una API REST construida como examen práctico, utilizando **Node.js**, *
 ## 📦 Instalación
 
 //1. Clona el repositorio:
-git clone https://github.com/tavoidk/api-rest-test-js.git 
+git clone https://github.com/tavoidkk/api-rest-test-js.git 
 cd TU_REPOSITORIO
 
 // 2. Instala dependencias:
