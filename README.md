@@ -18,14 +18,14 @@ Esta es una API REST construida como examen práctico, utilizando **Node.js**, *
 
 ## 📦 Instalación
 
-//1. Clona el repositorio:
+1. Clona el repositorio:
 git clone https://github.com/tavoidkk/api-rest-test-js.git 
 cd TU_REPOSITORIO
 
-// 2. Instala dependencias:
+2. Instala dependencias:
 npm install
 
-//3. Crea un archivo .env:
+3. Crea un archivo .env:
 PORT=3000
 DB_HOST=localhost
 DB_USER=root
@@ -34,10 +34,10 @@ DB_NAME=api_rest_examen
 JWT_SECRET=supersecretjwt
 JWT_REFRESH_SECRET=refreshsupersecret
 
-//4. Crea la base de datos desde phpMyAdmin o MySQL Workbench:
+4. Crea la base de datos desde phpMyAdmin o MySQL Workbench:
 CREATE DATABASE api_rest_test;
 
-//5. Inicia el servidor:
+5. Inicia el servidor:
 npx nodemon app.js
 
 🔐 Autenticación
